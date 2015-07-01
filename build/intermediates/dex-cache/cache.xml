@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/pre-dexed/debug/classes-a5b810956b49d2e53e5e79a9395660be755c1429.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-13c34e26424f6bf35c6efa2523cc49177ffac74c.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/pre-dexed/debug/classes-a520dc2e3a5fa04bc80e30510eb654bffee46ca7.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c3a007d52a2207c780b7f40f73393442c71bf93c.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-484040d6a6109abebc6bbe0a00927355580c6a6b.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-4e2d9726b59b9c22f07e97528ead2a3167b1efac.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/git_code/MateriaMedica/app/build/intermediates/pre-dexed/debug/classes-7c53d880267ad90481a42ea2ed8023031d110c21.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/pre-dexed/debug/classes-946c294712fbb9c781575376ceaa279d00222ca5.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/GorillaLogic/Android/sdk_studio/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/SJ/materia_medica/MateriaMedica/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-51273f225d98b42621bab910b8eb3012b942cedb.jar" />
+    </item>
+
+</items>
